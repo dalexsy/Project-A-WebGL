@@ -1,7 +1,7 @@
 {
 "companyName": "HeLeDaVa",
 "productName": "HeLeDaVa",
-"productVersion": "0.7.3",
+"productVersion": "0.7.5",
 "dataUrl": "Project A - WebGL.data.unityweb",
 "wasmCodeUrl": "Project A - WebGL.wasm.code.unityweb",
 "wasmFrameworkUrl": "Project A - WebGL.wasm.framework.unityweb",
