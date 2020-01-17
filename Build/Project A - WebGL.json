@@ -1,7 +1,7 @@
 {
 "companyName": "HeLeDaVa",
 "productName": "Ambi",
-"productVersion": "0.7.25",
+"productVersion": "0.7.27",
 "dataUrl": "Project A - WebGL.data.unityweb",
 "wasmCodeUrl": "Project A - WebGL.wasm.code.unityweb",
 "wasmFrameworkUrl": "Project A - WebGL.wasm.framework.unityweb",
