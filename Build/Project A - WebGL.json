@@ -1,7 +1,7 @@
 {
 "companyName": "HeLeDaVa",
 "productName": "Ambo",
-"productVersion": "0.8.03",
+"productVersion": "0.8.05",
 "dataUrl": "Project A - WebGL.data.unityweb",
 "wasmCodeUrl": "Project A - WebGL.wasm.code.unityweb",
 "wasmFrameworkUrl": "Project A - WebGL.wasm.framework.unityweb",
